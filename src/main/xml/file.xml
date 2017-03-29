@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newDepartment>
+    <departmentId>1</departmentId>
+    <departmentName>Google</departmentName>
+    <employee>
+        <emplyeeId>1</emplyeeId>
+        <employeeName>France</employeeName>
+        <project>Project1</project>
+        <client>Client1</client>
+    </employee>
+    <employee>
+        <emplyeeId>2</emplyeeId>
+        <employeeName>Brown</employeeName>
+        <project>Project2</project>
+        <client>Client2</client>
+    </employee>
+    <employer>
+        <employerId>1</employerId>
+        <employerName>Damon</employerName>
+    </employer>
+</newDepartment>
